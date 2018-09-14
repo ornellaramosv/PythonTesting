@@ -6,9 +6,11 @@ With Daqtaquest you'll learn how to think like a data scientist. You'll learn ho
   - Python Introduction
     - Python Programming: Beginner
     - Python Programming: Beginner
+  - Data Analysis and Visualization
+    - Panda and NumPy Fundamentals
 
 # What I am learning
   - Data Analysis and Visualization
-    - Panda and NumPy Fundamentals
+    - Exploratory Data Visualization
 
 **The important thing is to learn!**
